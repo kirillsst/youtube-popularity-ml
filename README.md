@@ -3,6 +3,14 @@
 **Projet :** Prévision de la popularité des vidéos sur YouTube à l'aide de l'apprentissage automatique.  
 **Auteur :** kirillsst et GaetanCSimplon (licence MIT).
 
+## Requirements
+* Python 3.10+
+* Install dependencies:
+```bash
+pip install -r requirements.txt
+playwright install chromium
+```
+
 ## 📂 Structure du projet
 
 ```
