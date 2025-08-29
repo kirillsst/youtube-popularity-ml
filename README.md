@@ -62,6 +62,9 @@ youtube-popularity-ml/
 ├── archive/
 │ ├── CSV
 │ ├── JSON
+├── image/                              #images
+│ ├── formule_scaler.png
+│ ├── formule.png
 ├── notebook/
 │ └── PROJET_ML_Youtube_Trending.ipynb #notebook
 │
