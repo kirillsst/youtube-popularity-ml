@@ -20,6 +20,9 @@ Avant d’entraîner les modèles, nous avons utilisé **StandardScaler** pour n
 
 **Comment ça marche :**  
 ![Formule Scaler](image/formule_scaler.png)
+
+---
+
 StandardScaler transforme chaque valeur \(x\) selon la formule :  
 
 \[
