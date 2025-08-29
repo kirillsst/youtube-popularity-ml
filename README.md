@@ -55,3 +55,17 @@ Nous avons mentionné le F1-score, car il s'agit d'une métrique équilibrée qu
 ---
 
 ## 📂 Structure du projet
+
+```bash
+youtube-popularity-ml/
+│
+├── archive/
+│ ├── CSV
+│ ├── JSON
+├── notebook/
+│ └── PROJET_ML_Youtube_Trending.ipynb #notebook
+│
+├── LICENSE
+├── requirements.txt # Python dependencies
+└── README.md # Documentation
+```
