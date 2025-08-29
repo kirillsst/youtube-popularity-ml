@@ -20,13 +20,16 @@ requirements.txt
 
 ## Résultats
 
-- **Random Forest: 0.9234**
+- **Random Forest: F1-Score: 0.9347 (+/- 0.0190)**
 
-- **SVM: 0.8299**
+- **SVM: F1-Score: 0.8323 (+/- 0.0385)**
 
-- **XGBoost: 0.9813**
+- **XGBoost: F1-Score: 0.9774 (+/- 0.0155)**
 
-- **Neural Network (MLP): 0.9041**
+- **Neural Network (MLP): F1-Score: 0.9070 (+/- 0.0121)**
+
+- Nous avons mentionné le F1-score, car il s'agit d'une métrique équilibrée qui combine la précision (Precision) et la couverture (Recall).
+- ![Formule Score](image/formule.png)
 
 
 ## 📂 Structure du projet
