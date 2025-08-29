@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ```
 
 ## 📂 Structure du projet
-
+```
 youtube-popularity-ml/
 │
 ├── archive/
