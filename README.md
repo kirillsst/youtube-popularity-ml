@@ -14,21 +14,20 @@
 ---
 
 ## 📌 Bibliothèques utilisées
-```
+
 requirements.txt  
 
----
 
 ## Résultats
 
-Random Forest: 0.9234
+- **Random Forest: 0.9234**
 
-SVM: 0.8299
+- **SVM: 0.8299**
 
-XGBoost: 0.9813
+- **XGBoost: 0.9813**
 
-Neural Network (MLP): 0.9041
----
+- **Neural Network (MLP): 0.9041**
+
 
 ## 📂 Structure du projet
 ```
