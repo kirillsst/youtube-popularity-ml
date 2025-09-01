@@ -62,11 +62,14 @@ youtube-popularity-ml/
 ├── archive/
 │ ├── CSV
 │ ├── JSON
-├── image/                              #images
+├── image/ 
 │ ├── formule_scaler.png
 │ ├── formule.png
+├── model/                                            
+│ ├── best_youtube_classifier.pkl
+│ ├── feature_scaler.pkl
 ├── notebook/
-│ └── PROJET_ML_Youtube_Trending.ipynb #notebook
+│ └── PROJET_ML_Youtube_Trending.ipynb #project
 │
 ├── LICENSE
 ├── requirements.txt # Python dependencies
