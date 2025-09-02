@@ -1,6 +1,8 @@
 # youtube-popularity-ml
 
 # 📊 PROJET_ML_Youtube_Trending
+- **Gaëtan** : branch **getget**
+- **Kirill** : branch **Kirill**
 
 **PROJET_ML_Youtube_Trending** est un projet d'analyse et de prédiction de la popularité des vidéos YouTube en utilisant des méthodes d'apprentissage automatique. L'objectif du projet est d'identifier les facteurs clés qui influencent la tendance des vidéos et de construire des modèles capables de prédire la probabilité qu'une vidéo devienne populaire.
 
