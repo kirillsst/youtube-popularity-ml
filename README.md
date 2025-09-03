@@ -65,8 +65,13 @@ youtube-popularity-ml/
 ├── image/ 
 │ ├── formule_scaler.png
 │ ├── formule.png
+├── model_handler/
+│ ├── model_handler.py # for use
 ├── model/                                            
-│ ├── best_youtube_classifier.pkl
+│ ├── best_youtube_classifier_mlp.pkl # mlp
+│ ├── best_youtube_classifier_rfc.pkl # rfc
+│ ├── best_youtube_classifier_svm.pkl # svm
+│ ├── best_youtube_classifier_xgb.pkl # xgb
 │ ├── feature_scaler.pkl
 ├── notebook/
 │ └── PROJET_ML_Youtube_Trending.ipynb #project
